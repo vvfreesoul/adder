@@ -1,3 +1,3 @@
-module adder
+module github.com/vvfreesoul/adder
 
 go 1.19
